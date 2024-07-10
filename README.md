@@ -12,3 +12,4 @@ This project is a demonstration of using GitHub and Git CLI for version control.
 
 ## License
 This project is licensed under the Apache 2.0 License.
+Fixing typo
